@@ -1,0 +1,162 @@
+body
+{
+	background-image: url("fond.jpg");
+	background-attachment: fixed;
+}
+
+
+img [title]
+{
+	margin: 50px;
+}
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.descriptif
+{
+	font-size: 2em;
+	text-align: center;
+	font-family: Goudy Stout, Stencil, Arial, Sérif;
+}
+
+h1, h2
+{
+	text-align: center;
+	font-family: Goudy Stout, Stencil, Arial, Sérif;
+	color: #2d211c;
+}
+
+
+h1
+{
+	font-size: 7em;
+}
+
+
+h2
+{
+	font-size: 3em;
+}
+
+
+h3
+{
+	font-size: 3em;
+	font-family: Goudy Stout, Stencil, Arial, Sérif;
+	text-align: center;
+	color: #ff5001;
+}
+
+
+h4
+{	
+	font-size: 2em;
+	font-family: Goudy Stout, Stencil, Arial, Sérif; 
+	color: #2d211c;
+}
+
+h5
+{
+	font-size: 1em;
+	font-family: Goudy Stout, Stencil, Arial, Sérif;
+	color: #2d211c;
+}
+
+p, ul
+{
+	font-family: Verdana, Arial, Georgia, Sérif;
+	color: #2d211c;
+}
+
+
+article, aside
+{	
+	border: 5px #f5ae00 dashed;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px #a47500;
+	
+	background-color: rgba(208, 183, 122, 0.5);
+	width: 60%;
+	min-width: 700px;
+	padding: 20px;
+	margin: auto;
+}
+
+
+section
+{
+	border: 5px #ffffff solid;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px #a47500;
+	
+	background-color: rgba(255, 255, 255, 0.6);
+	width: 80%;
+	min-width: 800px;
+	padding: 40px;
+	margin: auto;
+}
+
+strong
+{
+	font-family: Goudy Stout, Stencil, Arial, Sérif;
+}
+
+em
+{
+	color: #ff5001;
+}
+
+
+footer
+{
+	text-align: center;
+	margin-top:100px;
+	margin-bottom: 50px;
+}
+
+mark
+{
+	background-color: #ff5001;
+	color: #ffffff;
+	border-radius: 5px;
+}
+
+span
+{
+	font-weight: bold;
+}
+
+li
+{
+	margin-top: 30px;
+	margin-bottom: 30px
+}
+
+.descriptif
+{
+	margin-top: 60px;
+}
+
+.chgmtcoul1
+{
+	background-color: rgba(220, 16, 16, 0.8) ;
+}
+
+.chgmtcoul2
+{
+	color: #ffffff;
+}
+
+.chgmtcoul3
+{
+	color: #000000;
+}
+
+
+
+	
